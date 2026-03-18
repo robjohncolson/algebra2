@@ -34,14 +34,19 @@ ORANGE = '#ea580c'
 
 # Q1: Inverse variation table — rectangle area 72
 def blooket_q1():
-    fig, ax = plt.subplots(figsize=(5, 2.5))
+    fig, ax = plt.subplots(figsize=(6.2, 2.8))
     ax.axis('off')
     data = [['Length (x)', '4', '6', '9', '18', '36'],
             ['Width (y)',  '18', '12', '8', '4', '?']]
-    tbl = ax.table(cellText=data, loc='center', cellLoc='center')
+    tbl = ax.table(
+        cellText=data,
+        loc='center',
+        cellLoc='center',
+        colWidths=[0.27, 0.135, 0.135, 0.135, 0.135, 0.16],
+    )
     tbl.auto_set_font_size(False)
-    tbl.set_fontsize(13)
-    tbl.scale(1, 1.8)
+    tbl.set_fontsize(12)
+    tbl.scale(1, 1.9)
     for (r,c), cell in tbl.get_celld().items():
         if r == 0:
             cell.set_facecolor(PURPLE)
