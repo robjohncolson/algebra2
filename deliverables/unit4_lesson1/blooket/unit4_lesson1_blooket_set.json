@@ -1,0 +1,97 @@
+{
+  "title": "Unit 4 Lesson 1 Vocabulary",
+  "lesson_code": "0401",
+  "subject": "Algebra 2",
+  "terms": [
+    {
+      "term": "asymptote",
+      "definition": "A line that a graph approaches but never reaches."
+    },
+    {
+      "term": "constant of variation",
+      "definition": "The constant k in an inverse variation; the product xy = k."
+    },
+    {
+      "term": "inverse variation",
+      "definition": "A relationship where one variable increases as the other decreases proportionally; xy = k."
+    },
+    {
+      "term": "reciprocal function",
+      "definition": "A function that maps each non-zero input to its reciprocal, y = 1/x."
+    }
+  ],
+  "mcq_items": [
+    {
+      "question": "represented by the variable k",
+      "correct_answer": "constant of variation",
+      "distractors": [
+        "inverse variation",
+        "asymptote",
+        "reciprocal function"
+      ]
+    },
+    {
+      "question": "when one quantity increases and the other quantity decreases proportionally",
+      "correct_answer": "inverse variation",
+      "distractors": [
+        "constant of variation",
+        "asymptote",
+        "reciprocal function"
+      ]
+    },
+    {
+      "question": "guides the end behavior of a function",
+      "correct_answer": "asymptote",
+      "distractors": [
+        "constant of variation",
+        "inverse variation",
+        "reciprocal function"
+      ]
+    },
+    {
+      "question": "maps every non-zero real number to its reciprocal",
+      "correct_answer": "reciprocal function",
+      "distractors": [
+        "constant of variation",
+        "inverse variation",
+        "asymptote"
+      ]
+    },
+    {
+      "question": "xy = k",
+      "correct_answer": "inverse variation",
+      "distractors": [
+        "constant of variation",
+        "asymptote",
+        "reciprocal function"
+      ]
+    },
+    {
+      "question": "the product of two variables in an inverse variation",
+      "correct_answer": "constant of variation",
+      "distractors": [
+        "inverse variation",
+        "asymptote",
+        "reciprocal function"
+      ]
+    },
+    {
+      "question": "a function that models inverse variation",
+      "correct_answer": "reciprocal function",
+      "distractors": [
+        "constant of variation",
+        "inverse variation",
+        "asymptote"
+      ]
+    },
+    {
+      "question": "a line that a graph approaches",
+      "correct_answer": "asymptote",
+      "distractors": [
+        "constant of variation",
+        "inverse variation",
+        "reciprocal function"
+      ]
+    }
+  ]
+}

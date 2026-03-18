@@ -1,0 +1,99 @@
+{
+  "title": "Algebra 2 Unit 4 Lesson 1 Quiz",
+  "lesson_code": "0401",
+  "lesson_title": "Inverse Variation and the Reciprocal Function",
+  "description": "Five-question Lesson 1 quiz aligned to the verified Unit 4 Lesson 1 content that appears on the Topic 4 assessment.",
+  "settings": {
+    "make_quiz": true,
+    "shuffle_questions": false,
+    "limit_to_one_response": false,
+    "collect_email_addresses": false
+  },
+  "assessment_alignment": [
+    "TTB1",
+    "TTB5",
+    "TTB14",
+    "TTB16"
+  ],
+  "questions": [
+    {
+      "id": "LQ1",
+      "type": "short_answer",
+      "points": 1,
+      "prompt": "The chart represents an inverse variation. Find the value of p. x-values: 3, 10, 15, 30. y-values: 5, p, 1, 0.5.",
+      "accepted_answers": [
+        "1.5",
+        "3/2"
+      ],
+      "answer_key_note": "k = 15, so p = 15/10 = 1.5.",
+      "topic_4_alignment": [
+        "TTB1"
+      ]
+    },
+    {
+      "id": "LQ2",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "Write an equation for the inverse variation represented by the table. x-values: -3, -1, 1/2, 2/3. y-values: 4, 12, -24, -18.",
+      "choices": [
+        "y = x/(-12)",
+        "y = 12/x",
+        "y = -x/12",
+        "y = -12/x"
+      ],
+      "correct_choice": "y = -12/x",
+      "topic_4_alignment": [
+        "TTB1"
+      ]
+    },
+    {
+      "id": "LQ3",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "Three students can wash a car in 16 minutes. If the time varies inversely with the number of students washing the car, how many minutes will it take two students to complete that same job?",
+      "choices": [
+        "20",
+        "22",
+        "24",
+        "26"
+      ],
+      "correct_choice": "24",
+      "topic_4_alignment": [
+        "TTB1"
+      ]
+    },
+    {
+      "id": "LQ4",
+      "type": "short_answer",
+      "points": 1,
+      "prompt": "What is the equation of the horizontal asymptote of the graph y = 1/(x+5) - 4?",
+      "accepted_answers": [
+        "y = -4",
+        "y=-4",
+        "-4"
+      ],
+      "answer_key_note": "For y = a/(x-h) + k, the horizontal asymptote is y = k.",
+      "topic_4_alignment": [
+        "TTB16"
+      ],
+      "status": "lesson_1_extension"
+    },
+    {
+      "id": "LQ5",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "The graph of y = 1/x is translated 3 units up and 2 units to the left. What is an equation of the translated graph?",
+      "choices": [
+        "y = 1/(x+2) + 3",
+        "y = 1/(x-2) + 3",
+        "y = 1/(x-3) + 2",
+        "y = 1/(x+3) - 2"
+      ],
+      "correct_choice": "y = 1/(x+2) + 3",
+      "topic_4_alignment": [
+        "TTB5",
+        "TTB14"
+      ]
+    }
+  ]
+}
